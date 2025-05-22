@@ -6022,7 +6022,7 @@
    "scaffold_count" : 1627,
    "N" : 0,
    "contig_count" : 1627,
-   "GC" : 39.56
+   "GC" : 39.56,
 "busco": { 
   "C": 93.2,
   "D": 1.7,
